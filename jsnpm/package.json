@@ -1,0 +1,21 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Construis un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Esteban Alvarez <esteban.ea145@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0",
+    "webpack": "^5.72.1"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
